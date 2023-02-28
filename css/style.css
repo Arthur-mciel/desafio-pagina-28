@@ -1,0 +1,35 @@
+body{
+    background: #151638;
+    color: rgb(250, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-underline-offset: 2px;
+    text-align: center;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.perguntas {
+    color: rgb(255, 174, 0);
+    text-decoration: underline;
+}
+
+a {
+    color: red;
+}
+
+h2 {
+    color: red;
+}
+
+.respostas {
+
+    color: rgb(247, 247, 247);
+    font-size: x-large;
+    text-decoration: none;
+}
+
+p {
+    color: aliceblue;
+    font-size: large;
+    margin-bottom: 8%;
+}
