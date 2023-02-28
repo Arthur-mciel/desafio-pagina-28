@@ -1,4 +1,4 @@
-resposta do desafio da pagina 20 da apostila "gestão de conteúdo web II"
+resposta do desafio da pagina 28 da apostila "gestão de conteúdo web II"
 
 
 📖🤓
